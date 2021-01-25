@@ -2602,6 +2602,10 @@ input, select, textarea {
 			margin: 0 0 2em 0;
 		}
 
+		small {
+			font-family: 'Lobster', cursive;
+		}
+
 		#header strong, #header b {
 			color: #ffffff;
 		}
