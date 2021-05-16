@@ -2603,7 +2603,8 @@ input, select, textarea {
 		}
 
 		small {
-			font-family: 'Lobster', cursive;
+			font-family: 'Tangerine', cursive;
+			font-size: 2rem;
 		}
 
 		#header strong, #header b {
